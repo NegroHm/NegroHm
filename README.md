@@ -7,16 +7,10 @@
 <div id="badges" aling="center">
     <a href="https://twitter.com/EngroH" target="_blank">
         <img src="https://img.shields.io/twitter/follow/EngroH?color=blue&logo=twitter&style=for-the-badge"
-            alt="Twitter Badge">
-    </a>
-</div>
-<div id="badges" aling="center">
+            alt="Twitter Badge"></a>
     <a href="https://www.instagram.com/engrohm/" target="_blank">
         <img src="https://img.shields.io/twitter/follow/EngroHm?color=red&logo=instagram&style=for-the-badge"
-            alt="Twitter Badge">
-    </a>
-</div>
-<div id="badges" aling="center">
+            alt="Twitter Badge"></a>
     <a href="https://www.youtube.com/channel/UCtI4AIar1N8TnOrURWSC2bQ" target="_blank">
         <img src="https://img.shields.io/twitter/follow/EngroHm?color=pink&logo=YouTube&logoColor=red&style=for-the-badge"
             alt="YouTube Badge">
@@ -42,25 +36,10 @@
     <div>
         <img src="https://github.com/devicons/devicon/blob/develop/icons/html5/html5-plain.svg" title="HTML5" alt="HTML"
             width="40" height="40/">&nbsp;
-    </div>
-
-</div>
-
-<div aling="left">
-    <div>
         <img src="https://github.com/devicons/devicon/blob/develop/icons/css3/css3-plain.svg" title="CSS3" alt="CSS"
             width="40" height="40/">&nbsp;
-    </div>
-</div>
-
-<div aling="left">
-    <div>
         <img src="https://github.com/devicons/devicon/blob/develop/icons/php/php-original.svg" title="PHP" alt="PHP"
             width="40" height="40/">&nbsp;
-    </div>
-</div>
-<div aling="left">
-    <div>
         <img src="https://github.com/devicons/devicon/blob/develop/icons/javascript/javascript-plain.svg" title="JS"
             alt="JS" width="40" height="40/">&nbsp;
     </div>
