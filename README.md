@@ -1,16 +1,73 @@
-### Hi there 👋
+<div id="header" aling="center">
+    <img src="https://media.giphy.com/media/U3EC6scVE8SOsjqQPW/giphy.gif" width="200">
+    <h1 aling="center">Hi , I´m EngroHm</h1>
+    <h3 aling="center">Min nombre es mauricio medina de mendoza bla lvba bla </h3>
+</div>
 
-<!--
-**NegroHm/NegroHm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" aling="center">
+    <a href="https://twitter.com/EngroH" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/EngroH?color=blue&logo=twitter&style=for-the-badge"
+            alt="Twitter Badge">
+    </a>
+</div>
+<div id="badges" aling="center">
+    <a href="https://www.instagram.com/engrohm/" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/EngroHm?color=red&logo=instagram&style=for-the-badge"
+            alt="Twitter Badge">
+    </a>
+</div>
+<div id="badges" aling="center">
+    <a href="https://www.youtube.com/channel/UCtI4AIar1N8TnOrURWSC2bQ" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/EngroHm?color=pink&logo=YouTube&logoColor=red&style=for-the-badge"
+            alt="YouTube Badge">
+    </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me :
+
+- s
+
+- s
+
+- s
+
+- s
+
+---
+
+<div aling="left">
+    <h3>Lenguajes bla bla:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/develop/icons/html5/html5-plain.svg" title="HTML5" alt="HTML"
+            width="40" height="40/">&nbsp;
+    </div>
+
+</div>
+
+<div aling="left">
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/develop/icons/css3/css3-plain.svg" title="CSS3" alt="CSS"
+            width="40" height="40/">&nbsp;
+    </div>
+</div>
+
+<div aling="left">
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/develop/icons/php/php-original.svg" title="PHP" alt="PHP"
+            width="40" height="40/">&nbsp;
+    </div>
+</div>
+<div aling="left">
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/develop/icons/javascript/javascript-plain.svg" title="JS"
+            alt="JS" width="40" height="40/">&nbsp;
+    </div>
+</div>
+
+---
+### My Stats :
+![NegroHm GitHub stats](https://github-readme-stats.vercel.app/api?username=NegroHm&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NegroHm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
