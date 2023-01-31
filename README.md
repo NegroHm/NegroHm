@@ -23,7 +23,7 @@
 
 - A young developer with a dream 👥
 
-- learning to program 👥
+- Learning to program 👥
 
 - Front-End Developer 👥
 
