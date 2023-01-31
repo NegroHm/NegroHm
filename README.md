@@ -1,7 +1,7 @@
 <div id="header" aling="center">
     <img src="https://media.giphy.com/media/U3EC6scVE8SOsjqQPW/giphy.gif" width="200">
     <h1 aling="center">Hi , I´m EngroHm</h1>
-    <h3 aling="center">Min nombre es mauricio medina de mendoza bla lvba bla </h3>
+    <h3 aling="center">Hello! My name is Mauricio Medina from Argentina, I am a junior developer</h3>
 </div>
 
 <div id="badges" aling="center">
@@ -19,7 +19,7 @@
 
 ---
 
-### M :
+### Me :
 
 - A young developer with a dream 👥
 
@@ -31,7 +31,7 @@
 ---
 
 <div aling="left">
-    <h3>Lenguajes bla bla:</h3>
+    <h3>Technologies:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/develop/icons/html5/html5-plain.svg" title="HTML5" alt="HTML"
             width="40" height="40/">&nbsp;
