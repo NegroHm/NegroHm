@@ -19,15 +19,14 @@
 
 ---
 
-### About Me :
+### M :
 
-- s
+- A young developer with a dream 👥
 
-- s
+- learning to program 👥
 
-- s
+- Front-End Developer 👥
 
-- s
 
 ---
 
