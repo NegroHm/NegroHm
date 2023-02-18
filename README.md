@@ -8,7 +8,7 @@
     <a href="https://twitter.com/EngroH" target="_blank">
         <img src="https://img.shields.io/twitter/follow/EngroH?color=blue&logo=twitter&style=for-the-badge"
             alt="Twitter Badge"></a>
-    <a href="[https://www.instagram.com/engrohm/](https://www.instagram.com/engrohm/)" target="_blank">
+    <a href="https://www.instagram.com/engrohm/https://www.instagram.com/engrohm/" target="_blank">
         <img src="https://img.shields.io/twitter/follow/EngroHm?color=red&logo=instagram&style=for-the-badge"
             alt="Instagram Badge"></a>
     <a href="https://www.youtube.com/channel/UCtI4AIar1N8TnOrURWSC2bQ" target="_blank">
