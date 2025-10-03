@@ -1,7 +1,7 @@
 <div id="header" aling="center">
     <img src="https://media.giphy.com/media/U3EC6scVE8SOsjqQPW/giphy.gif" width="200">
     <h1 aling="center">Hi , I´m EngroHm</h1>
-    <h3 aling="center">Hello! My name is Mauricio Medina from Argentina, I am a junior developer</h3>
+    <h3 aling="center">Hello! My name is Mauricio Medina from Argentina, I am a developer</h3>
 </div>
 
 <div id="badges" aling="center">
@@ -22,7 +22,7 @@
 
 - Learning to program 👥
 
-- Front-End Developer 👥
+- Developer 👥
 
 
 ---
